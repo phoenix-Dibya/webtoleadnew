@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+input,
+label {
+  display: block;
+  width: 100%;
+}
+.Submit {
+  width: 40%;
+  margin: 15px auto;
+  background-color: rgb(161, 126, 197);
+  border-radius: 5px;
+  align-items: center;
+}
+
+form {
+  min-width: 300px;
+  max-width: 500px;
+  margin: auto;
+  border: black;
+  padding: 15px;
+}
